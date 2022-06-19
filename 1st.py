@@ -4,3 +4,4 @@ if test=="yes":
     print("good job.")
 else:
     print("no, i am not.")
+    print("good job.")
