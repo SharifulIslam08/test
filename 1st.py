@@ -5,4 +5,6 @@ if test=="yes":
     print("go one.")
 else:
     t=input("why??")
-    print("no, i am sick.")
+    if t=="no":
+        print("no, i am sick.")
+        print("need some rest.")
