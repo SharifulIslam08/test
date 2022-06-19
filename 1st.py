@@ -3,4 +3,5 @@ if test=="yes":
     print ("yes,i am.")
     print("good job.")
 else:
-    print("no, i am not.")
+    t=input("why??")
+    print("no, i am sick.")
